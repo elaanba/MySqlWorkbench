@@ -1,4 +1,4 @@
-###Prirequis :
+### Prirequis :
 
 #### Workbench       ==> https://dev.mysql.com/downloads/workbench/
 #### MySql Server    ==> https://dev.mysql.com/downloads/installer/
